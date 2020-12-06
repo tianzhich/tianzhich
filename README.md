@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tianzhich.tianzhich)
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, nice to see you!</h2>
 
 <!--
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tianzhich.tianzhich)
 
 Welcome to my github. My name is Zhi Tian, you can call me Zhi (or Chris which is my foreign name). I am a front-end developer from 🇨🇳 Beijing, China. I love the open source softwares. And I'm always open to collaborate on projects with developers all over the world.
 
