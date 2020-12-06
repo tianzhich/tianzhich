@@ -23,8 +23,8 @@ Here are some ideas to get you started:
   <p>I am interested in TypeScript(especially the type system behind it), functional programming, computer networking, and so on.</p>
 </div>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact&hide_title=1" alt="Top language used in my repos" />
+<div style="margin: 0 auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact&hide_title=1" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of TypeScript 😛</small>
   <br />
