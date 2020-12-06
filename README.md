@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact&hide_title=1" alt="Top language used in my repos" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact&hide_title=1" alt="Top language used in my repos" />
+  <br />
   <small>Languages used in my public repos - big fan of TypeScript 😛</small>
+  <br />
 </div>
 
 ## ⚡ My Technologies
