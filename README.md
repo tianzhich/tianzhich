@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tianzhich.tianzhich)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tianzhich&show_icons=true&theme=chartreuse-dark" alt="Zhi Tian's github stats" style="float:right" />
+<div style="display: flex">
+  <p>
   Welcome to my github. My name is Zhi Tian, you can call me Zhi (or Chris which is my foreign name). I am a front-end developer from 🇨🇳 Beijing, China. I love the open source softwares. And I'm always open to collaborate on projects with developers all over the world.
-</p>
+  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tianzhich&show_icons=true&theme=chartreuse-dark" alt="Zhi Tian's github stats" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact&hide_title=1" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of TypeScript 😛</small>
   <br />
