@@ -52,7 +52,7 @@ Welcome to my github. My name is Zhi Tian, you can call me Zhi (or Chris which i
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
-## My Stats
+## 📊 My Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
@@ -62,6 +62,6 @@ Welcome to my github. My name is Zhi Tian, you can call me Zhi (or Chris which i
   <br />
 </div>
 
-<div style="display:flex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tianzhich&show_icons=true&theme=chartreuse-dark" alt="" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tianzhich&show_icons=true&theme=chartreuse-dark" alt="Zhi Tian's github stats" />
 </div>
