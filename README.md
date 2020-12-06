@@ -53,6 +53,15 @@ Welcome to my github. My name is Zhi Tian, you can call me Zhi (or Chris which i
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
 ## My Stats
-![Zhi Tian's github stats](https://github-readme-stats.vercel.app/api?username=tianzhich&show_icons=true&theme=chartreuse-dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of TypeScript 😛</small>
+  <br />
+  <br />
+  <br />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tianzhich&show_icons=true&theme=chartreuse-dark" alt="" />
+</div>
