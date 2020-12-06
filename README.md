@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Welcome to my github. My name is Zhi Tian, you can call me Zhi (or Chris which is my foreign name). I am a front-end developer from 🇨🇳 Beijing, China. I love the open source softwares. And I'm always open to collaborate on projects with developers all over the world.
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianzhich&layout=compact&hide_title=1" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of TypeScript 😛</small>
