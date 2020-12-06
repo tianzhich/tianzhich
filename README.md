@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white")
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=flat-square&logo=Shell)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat-square&logo=latex&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
